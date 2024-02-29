@@ -1,1 +1,5 @@
 # Facial-Recognition-System
+
+The goal of real-time feedback on physiological changes, stress monitoring, and even emotion detection is becoming a technological reality. People in their daily life experience varying emotional states, some of which are negative and which can lead to decreased attention, decreased productivity, and ultimately, reduced quality of life. Therefore, having a solution that continuously monitors the physiological signals of the person and assesses his or her emotional well-being could be a very valuable tool. This paper aims to review existing physiological and emotional monitoring devices, highlight their features and compare their sensing capabilities.
+
+Such technology would be particularly useful for certain populations who experience rapidly changing emotional states such as people with autism spectrum disorder and people with intellectual disabilities. Wearable sensing devices present a potential solution that can support and complement existing behavioral interventions.
